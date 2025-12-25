@@ -19,4 +19,4 @@ BASE_DOMAIN_JOBSGO = "https://jobsgo.vn"
 
 
 """Thông tin của google sheet"""
-sheet_id="1iPdBgs4fSR03Ms0hClB_qKfHP67zsQthOwp82NnEYrw"
+sheet_id="...................................."
