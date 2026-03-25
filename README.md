@@ -15,7 +15,6 @@ Hệ thống thu thập và phân tích dữ liệu việc làm từ các trang 
 - [Cách Sử Dụng](#-cách-sử-dụng)
 - [Cấu Hình](#-cấu-hình)
 - [Kiến Trúc](#-kiến-trúc)
-- [License](#-license)
 
 ## **✨ Giới Thiệu**
 
@@ -265,10 +264,6 @@ from scrapers.new_scraper import scrape_new_site
 - Async cho I/O bound operations
 - Batch processing cho large datasets
 - Memory management với large DataFrames
-
-## **📄 License**
-
-Distributed under the MIT License. See `LICENSE` for more information.
 
 ## **📞 Liên Hệ**
 
