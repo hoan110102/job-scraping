@@ -1,8 +1,6 @@
 # **Job Market Analysis - Web Scraping System**
 
-[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-[![Code Style](https://img.shields.io/badge/code%20style-black-black)](https://github.com/psf/black)
+> Link Dashboard (Looker): [Link](https://lookerstudio.google.com/s/nftwDtVvkjI)
 
 Hệ thống thu thập và phân tích dữ liệu việc làm từ các trang web tuyển dụng tại Việt Nam, được xây dựng bằng Python với kiến trúc OOP.
 
